@@ -4,7 +4,7 @@
 
 See [[BME205 Week 3 Review#2 11 Graded Potentials 59-61]] and [[BME205 Week 3 Review#2 12 Action Potentials 61-71]] for the first two textbook sections.
 
-### 2.14 Synapses and Neuronal Integration (73-)
+### 2.14 Synapses and Neuronal Integration (73-83)
 
 Neurons may **innervate** glands, muscles or another neuron.
 
