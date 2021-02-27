@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "ba8896ddf83a8ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb3a706af5ca198",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BME205/BME205 Week 5 Review.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "cd8d066e37e75569",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BME205/BME205 Week 5 Review.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dc374ddc1d2ca8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23075a949af4e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa55d28d18a4bbe2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b195679c0f9d081",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "desmo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83af76fbb564ea87",
+    "type": "split",
+    "children": [
+      {
+        "id": "51b1b0b296135a24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c60e97160a5f939",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BME205/BME205 Week 5 Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "BME205/BME205 Week 5 Review.md",
+    "BME205/BME205 Week 4 Review.md",
+    "Untitled.md",
+    "BME205/BME205 Week 3 Review.md",
+    "BME205/Pasted image 20210226210754.png",
+    "BME205/BME205 Week 1  Review.md",
+    "BME205/BME205 Week 2 Review.md",
+    "BME205 Week 4 Review.md",
+    "BME205 Week 3 Review.md",
+    "BME205 Week 2 Review.md"
+  ]
+}
