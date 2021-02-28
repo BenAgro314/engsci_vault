@@ -40,6 +40,8 @@ The nevous system has two main divisions that continue downards in a tree like s
 	- usually bipolar
 	- connect afferent and efferent neurons 
 
+![[Pasted image 20210227183244.png]]
+
 ### 3.2 Structure and Function of the Central Nervous System (93-95)
 
 ##### Functions of the central nervous system
@@ -158,6 +160,8 @@ Create the myelin sheaths around neurons in the CNS.
 	- adheres directly to brain and spinal cord
 	- dips down brain folds to bring a rich blood supply in close contact with the ependymal cells lining the ventricals. 
 
+![[Pasted image 20210227183557.png]]
+
 ##### CSF
 
 - surrounds and cushions the brain
@@ -195,7 +199,7 @@ Create the myelin sheaths around neurons in the CNS.
 - the brain only uses **glucose** as a fuel source
 
 
-### 3.4 Spinal Cord (100-)
+### 3.4 Spinal Cord (100-109)
 
 ##### Vertebral Canal
 
@@ -219,6 +223,14 @@ Create the myelin sheaths around neurons in the CNS.
 	- **dorsal horn** houses synpatic terminals of afferent neurons. Houses interneuron cell bodies. 
 	- ** lateral horn** is home to interneuron axons. Also has cell bodies of autonomic efferent neurons. 
 	- **ventral horn** houses motor neuron efferent neuron cell bodies.
+
+![[Pasted image 20210227183734.png]]
+
+- **first order neuron:** afferent neurons to the spinal cord
+- **second order neuron:** travel up ascending tracts and cross from one side of the body to the other **(dessucation)**. Terminated in the reticular formation (thalamus)
+- **third order neurons:** are part of the reticular activating systems and travel from the thalamus to the cerebral cortex (somaesthetic cortex in the parietal lobe). 
+
+![[Pasted image 20210227184049.png]]
 
 ##### Spinal Nerves
 
@@ -254,4 +266,140 @@ A **reflex** is a response that occurs without concious effort.
 - **monosynaptic (vs polysynaptic):** afferent neuron synapses directly to efferent neuron
 - originates in stretch receptor of muscle
 - allows for optimal resting length to be maintained
-- eg. patellar tendon reflex
+- eg. patellar tendon reflex (actually there is a polysynaptic portion to this reflex, see picture below)
+	- tapping the patellar tendon stretches the quadricepts muscle
+	- stretch reflex brings about the contraction of this extensor muscle
+- stretch reflex stops muscles from buckling under gravity
+
+![[Pasted image 20210227184236.png]]
+
+##### Withdrawl Reflex
+
+- 6 neurons involved:
+	- **afferent neuron** is connected to a receptor (eg. thermal receptor when you touch a hot stove). This neuron travels to the spinal cord where it diverges to 3 axon terminals
+	- two of the axons terminals are attached to three **interneurons**, one of which travels in an ascending tract to the brain (**dessucation:** crossing the midline of the body). This sensory neuron will stimulate the somatosensory cortex in the parietal lobe, causing perception of the stimulus. 
+	- The two interneurons are attached to two **efferent motor neurons**, one which causes EPSPs in the flexor muscle (eg. bicep) and one which causes IPSPs in the extensor muscle (eg. tricep) to cause the limb to withdraw
+- **reciprocal innervation:** when the neurons to one muscle is excited and the neurons to the antagonist muscle is simultaneously inhibited.
+
+##### Babinski Ankle Jerk Reflex
+
+- big toe straightens and other toes fan outwards when stimulated by a sweaping pressure on the bottom of the foot
+- this disappears when the child ages (> 2 years), if it doesn't it is a sign of neurological issues with the **corticospinal tract**. 
+
+##### Crossed extensor reflex
+
+- step on a tack: 
+	- withdrawl reflex in on the injured side
+	- **cross extensor reflex** stimulates the uninjured side to support the body weight
+- 10 neurons involved:
+	- afferent from injured foot
+	- two interneurons and two motor neurons cause withdrawl reflex on injured side (+4)
+	- one interneuron to brain (+1)
+	- two interneurons and two motor neurons cause cross extensor reflex (+4)
+
+Not all activity has a well defined reflex arc:
+- some **responses are mediated by hormones.** 
+- some **local responses do not involve nerves or hormones** (blood vessels dilating locally due to metabolic changes)
+
+### 3.5 Brain Stem (109-112)
+
+- beneath (inferior to) the occipital lobe and in front of (anterior to) the cerebellum. 
+- Continuous with the spinal cord
+- Consits of the 
+	- **pons**
+	- **medulla oblongata**
+	- **midbrain**
+- Functions:
+	1.majority of the 12 cranial nerves aries from the brains stem. These nerves innervate the face (except nerve 10: **the vagus nerve** which innervates the visceral organs in the thoracic and abdominal cavities). Vagus nerve constitues 75% of all parasympathetic fibers. 
+	2. There are **neuronal clusters** called **centers** that control heart and blood vessel function, repsiration and digestion. 
+	3. regulates muscle reflexes involved in equillibrium and posture
+	4. widespread network of interconnected neurons called the **reticular formation** runs through the brain stem and into the thalamus. This formation **receives and integrates all incoming sensory synaptic input**. Ascending fibers from the reticular formation arouse and active the cerebral cortex. These fibers make up the **reticular activating system** which controls cortical alertness and attention direction. Fibers descending from the cortex can in turn activate the RAS. 
+	5. centers that control sleep have traditionally been considered to be housed in the brain stem (although we now know the thalamus plays a role as well).
+
+### 3.6 Thalamus and Hypothalamus (112-113)
+
+- form the **diencehalon** consists of the hypothalamus and thalamus and serves as the wall to the third ventricular cavity.
+
+##### Thalamus
+
+- relay station and integrating center for sensory input on its way to the cortex
+- important for the ability to direct attention to important stimuli
+- positively reinforces voluntary motor behavior initiated by the cortex
+
+##### Hypothalamus
+
+1. hunger and food intake
+2. thirst and urination
+3. sleep-wake cycle
+4. emotions
+5. body temperature
+6. controls anterior pituitary hormone secretion
+7. produces posterior pituitary hormones
+8. controls uterine contraction and milk ejection
+9. serves as major autonomic coordinating center (effecting smooth muscle, cardiac muscle, and exocrine glands)
+10. links the endocrine and nervous systems
+
+### 3.7 Cerebral Cortex (113-121)
+
+- two **cerebral hemispheres** are connected via the corpus callosum (~300 million neuronal axons)
+- each hemisphere is made up of a thin outershell of **grey matter** (the cerebral cortex), covering internal **white matter**
+- The **basal ganglia** is another region of grey matter located deep within the white matter. 
+- **grey matter:** densely packaged cell bodies, dendrites and glial cells. 
+- **white matter:** bundles (tracts) of myelinated axons 
+- cortex is organized into **six well defined layers** based on cell types
+- layers are organized into functional vertical columns that act as a team, each one being involved in some part of the same activity
+- functional differences are a result of different layering patterns, not from unique cell types
+	- eg. sense perception areas have an expanded area rich in **stellate cells** which process sensory information
+	- eg. areas responsible for motor control to skeletal muscles have a thickend layer of **pyramidal cells** which send fibers down to the spinal cord to terminate of efferent motor neurons
+
+##### Lobes in the Cerebral Cortex
+
+###### Frontal
+
+- dorsal portion (immediatly anterior to **central sulcus**) is the **primary motor cortex** which works inconjunction with the
+	- **premotor cortex**
+	- **supplementary motor area** (inner surface of cortex anterior to the premotor cortex)
+	- **cerebellum**
+	- **anterior paretal cortex** (processes sensory input nessecary for the premotor cortex to create the motor program)
+- to plan and execute movements (develop  the **motor program**). The primary motor cortex itself does not initiate movements, it is merely the "puppet strings". It is activated by a neuronal discharge called the **readiness potential**. This is initated by the four helpers listed above. 
+- Primary motor cortex contains large **pyramindal cell neurons**
+- **premotor cortex** also works in conjunction with the basal ganglia to plan movements or actions, which are refined by the **cerebellum**
+- the **motor homonculus** take a cross section of the motor cortex to depict the location and relative amount of the 	motor cortex devoted to the muscles in the body
+
+![[Pasted image 20210227181018.png]]
+
+###### Parietal Lobes
+
+- house the **somaesthetic cortex** which deals with the perception of **somaesthetic senses**: coming from the surface of the body
+- this cortex is immediatly posterior to the central sulcus
+- this cortex also deals with **proproception**
+
+##### Temporal lobes
+
+- initial reception of sound  sensation
+
+##### Occipital Lobes
+
+- initial processing of visual input
+
+![[Pasted image 20210227181332.png]]
+
+- A slice of the somaesthetic cortex can be taken to create the sensory homonculus
+
+![[Pasted image 20210227181509.png]]
+
+- thalamus -> simple awarness of sensation, somaesthetic cortex -> fuller sensory perception
+
+##### Plasticity
+
+- the brain has an ability to remodel based on the demands placed on it
+- while highest in youth, the brain retains some plasticity into adulthood
+- this is achieved through changes in dendridic shape that make new neural pathways
+
+
+##### Electroencephalograms (EEGs)
+
+- record the collective postsynaptic activity (EPSPs and IPSPs)
+1. diagnosis of cerbral disfunction (eg. epilepsy)
+2. legal determination of brain death
+3. distinguish stages of sleep
