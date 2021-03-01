@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "acb3a706af5ca198",
+        "id": "cd8d066e37e75569",
         "type": "leaf",
-        "dimension": 48.44928751047779,
         "active": true,
         "state": {
           "type": "markdown",
@@ -17,13 +16,12 @@
         }
       },
       {
-        "id": "cd8d066e37e75569",
+        "id": "e3e32234bc31f64e",
         "type": "leaf",
-        "dimension": 51.55071248952221,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BME205/BME205 Week 7 Review.md",
+            "file": "BME205/BME205 Week 5 Review.md",
             "mode": "preview"
           }
         }
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excitable",
+                "query": "parasym",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,14 +98,14 @@
   },
   "lastOpenFiles": [
     "BME205/BME205 Week 7 Review.md",
-    "BME205/BME205 Week 5 Review.md",
-    "BME205/Pasted image 20210226210754.png",
-    "Untitled.md",
     "BME205/BME205 Week 4 Review.md",
     "BME205/BME205 Week 3 Review.md",
-    "BME205/BME205 Week 1  Review.md",
     "BME205/BME205 Week 2 Review.md",
-    "BME205 Week 4 Review.md",
-    "BME205 Week 3 Review.md"
+    "BME205/BME205 Week 5 Review.md",
+    "CHE374 Week 8.md",
+    "README.md",
+    "CHE374/Pasted image 20210228160610.png",
+    "Untitled.md",
+    "BME205/BME205 Week 1  Review.md"
   ]
 }

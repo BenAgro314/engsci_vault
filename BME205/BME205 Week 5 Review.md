@@ -1,3 +1,4 @@
+
 # Week 5
 
 **Textbook sections:** 3.1 - 3.7
@@ -61,9 +62,9 @@ The nevous system has two main divisions that continue downards in a tree like s
 		3. language 
 		4. personality
 		5. sophisticated mental events: conciousness, thinking, memory, decision making
-	- basal nuclei
-		1. control of slow movements 
-		2. reduction of irrelevant movement patterns
+	- basal nuclei (ganglia): masses of grey matter deep in the cerbral hemispheres 
+		1. control of slow movements (posture and support)
+		2. reduction (suppression) of irrelevant movement patterns
 		3. inhibition of muscle tone
 - Diencephalon
 	- thalamus
@@ -186,6 +187,7 @@ Create the myelin sheaths around neurons in the CNS.
 
 - consists of endothelial cells with tight junctions, forcing materials from the blood to pass through the cells of the capillaries
 - transport of anything that is not a small water soluble substance or a lipid soluble substance occurs through highly selective membrane-bound carries
+- *"Transport across the brain capillary walls is anatomically prevented between the cells and is physiologically restricted through the cells."*
 - Astrocytes surround areas with a BBB and attach to the cappilaries with their podocytes. 
 	- they signal cells forming the capillaries to make tight junctions 
 	- participate in the cross cellular transport of some substances like K+
@@ -341,7 +343,7 @@ Not all activity has a well defined reflex arc:
 
 ### 3.7 Cerebral Cortex (113-121)
 
-- two **cerebral hemispheres** are connected via the corpus callosum (~300 million neuronal axons)
+- two **cerebral hemispheres** are connected via the **corpus callosum** (~300 million neuronal axons)
 - each hemisphere is made up of a thin outershell of **grey matter** (the cerebral cortex), covering internal **white matter**
 - The **basal ganglia** is another region of grey matter located deep within the white matter. 
 - **grey matter:** densely packaged cell bodies, dendrites and glial cells. 
@@ -383,6 +385,7 @@ Not all activity has a well defined reflex arc:
 - initial processing of visual input
 
 ![[Pasted image 20210227181332.png]]
+tag: brain map
 
 - A slice of the somaesthetic cortex can be taken to create the sensory homonculus
 
@@ -403,3 +406,21 @@ Not all activity has a well defined reflex arc:
 1. diagnosis of cerbral disfunction (eg. epilepsy)
 2. legal determination of brain death
 3. distinguish stages of sleep
+
+##### Stroke
+
+- cerebral blood vessel is blocked
+- death of oxegen deprived tissue (necrosis)
+- neighbours die by apoptosis
+	- initially oxegen starved cells release glutamate
+	- bind with NMDA receptors, which function as K+ channels
+	- rise in intracellular K+ causes apoptosis
+
+##### Lateralization of the brain
+
+- **left**
+	- language
+	- analyitical and logical
+	-  houses Wernicke (left temporal lobe) (speech understanding) and Broca's area (left frontal lobe) (speech production)
+- **right**
+	- creative and artistic

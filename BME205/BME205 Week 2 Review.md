@@ -68,6 +68,13 @@ Microtubules | slender hollow tubes | maintain cell shape, coordinate cell movem
 Microfilaments | helical chains | contractile mechanisms 
 Intermediate Filaments | threadlike proteins | resistance of mechanical stress 
 
+##### Transport of vesicles down microtubules
+- the centrioles form microtubules, which are made of **tubulin proteins**
+- microtubules radiate away from centrioles with their plus end far away and minus end at the centriole
+- Motor molecules attach to, and move along, the microtubules
+- kinesin can only move towards plus end
+- dynein can only move towards the minus end 
+
 **Organelle expression varies between cells:**
 ![[Pasted image 20210226210754.png]]
 Pancratic exocrine cells create insulin and other proteins, so they have lots of RER. Liver hepatocyte play roles in metabolism and detoxification, hence they have lysosomes, peroxisomes, and lots of mitochondria. 
@@ -94,7 +101,8 @@ Rapid action (eg. in skeletal muscles)
 
 Occurs in cytosol. Requires 2 ATP to produce 4: **Net 2 ATP, 2 NADH, and 2 3C pyruvate per glucose molecule**
 
-If anerobic: pyruvate is turned in to lactic acid. (**lactic acid fermentation**). Otherwise, the pyruvate is moved into the mitochondria to undergo the TCA cycle and oxidative phosphorylation.
+If anerobic: pyruvate is turned in to lactic acid, which consumes the 2 NADH that were generated  (**lactic acid fermentation**). Otherwise, the pyruvate is moved into the mitochondria to undergo the TCA cycle and oxidative phosphorylation.
+
 
 ##### Pyruvate Decarboxylation
 
@@ -232,14 +240,15 @@ small (<0.8 nm diameter) polar molecules may pass through transport proteins.
 
 
 ##### Na-K ATPase pump
-1. 3 Na+ bind on ICF side. 
+- high affinity for K+ when phosphorylated, high affinity for Na+ when not phosphorylated
+1. 3 Na+ bind on ICF side, allowing the pump to split ATP. 
 2. ATP is split and P sticks to pump. 
 3. Conformational change causes pump to flip to face ECF, 3 Na+ are released (lower affinity now, high affinity for K+)
-4. 2 K+ bind to high affinity sites. 
+4. 2 K+ bind to high affinity sites, allowing the pump to release P. 
 5. Phosphate group is released upon binding of K+, and pump flips inwards. 
 6. low affinity for K+ -> K+ is released into cell. 
 
-**Secondary Active Transport:** Uses energy stored in an electrochemical gradient to transport another molecule against its concentration gradient via co-transport. Eg. Transport of glucose from lumen into epithelian cell via the Na+ gradient. The Na-K ATPase pump moves Na+ from the ICF to the blood through the basolateral membrane to maintain a low intracellular concentration of Na+. 
+**Secondary Active Transport:** Uses energy stored in an electrochemical gradient to transport another molecule against its concentration gradient via co-transport. Eg. Transport of glucose from lumen into epithelian cell via the Na+ gradient. This is done via the SGLT symporter. More Na+ binds on the extracelluar side than the intracellular side. Na+ changes the carriers affinity for glucose. The Na-K ATPase pump moves Na+ from the ICF to the blood through the basolateral membrane to maintain a low intracellular concentration of Na+. Glucose is then transported by a carrier called GLUT via faciliated diffusion from the intenstinal cell to the blood. 
 
 **Endocytosis:** membrane engulfs extracellular material. **Pinocytosis** is non-specific cell drinking, englufing water and solute molecules. **Receptor mediated endocytosis** requires specific target molecules to bind to receptors (clatherin coated pits). **Phagocytosis** occurs in specialized cells which create pseudopods that surround their prey. 
 
@@ -251,7 +260,14 @@ Lysosomes are often used to degrade the contents of an endocytotics vesicle.
 
 ##### Steps of secretion from the glogi apparatus
 
-1. sorting signals from the newly synthesized product bind to **recognition markers** causing the membrane to wrap around the vesicle using the **coatomer** protein that cuases the membrane to curve.
+1. sorting signals from the newly synthesized product bind to **recognition markers** causing the membrane to wrap around the vesicle using the **coatomer** protein that causes the membrane to curve.
 2. Membrane pinches off from golgi
 3. vesicle loses coatomer, exposing v-SNARE **docking markers**
 4. v-SNARE bind to corresponding t-SNARE **docking marking acceptors**, triggering exocytosis. 
+
+
+##### Polypeptide steps
+
+1. RER synthesizes proteins
+2. make their way to SER where they are packaged in transport vesicles that travel to the golgi
+3. golgi may modify contents, and then it performs the steps outlined above to create and export a seceratory vesicle

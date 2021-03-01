@@ -6,7 +6,7 @@
 
 ##### Communication between cells
 1. Gap junctions 
-2. Surface identifying markers (glycoproteins and glycolipids) permit transient link-up communication (ie. avoiding unintentional phagocytosis)
+2. Surface identifying markers (glycoproteins and glycolipids, making up the glycocalyx) permit transient link-up communication (ie. avoiding unintentional phagocytosis)
 3. Extracellular chemical messengers
 	1. **Paracrines**: local chemical messengers restricted to short distance signalling. Ex. histamine. These must be distiguished from chemicals being released during regular cellular activity like CO2. 
 	2. **Neurotransmitters**: the means by which neurons communicate with one another and the cells that they innervate. 

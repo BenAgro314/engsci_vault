@@ -9,6 +9,7 @@
 - unconcious control: **autonomic nervous system**
 	- fight or flight: **sympathetic**
 	- rest and digest: **parasympathetic**
+	- **enteric nervous system:** influences pancreas, liver, gall bladder, **controls gastrointestinal motility, secretion, and blood flow**
 
 ### 4.2 Afferent Division (142-143)
 
@@ -102,7 +103,7 @@
 		- relatively long
 		- synapse on **terminal ganglia**
 		- lightly myelinated
-		- originate from cranium and sarcal regions
+		- originate from cranium (brain stem) and sarcal regions
 		- release acetylcholine (ACh) (**cholinergic fibers**)
 	- **postganglionic fibers**
 		- have **nicotinic receptors** on their dendrites/cell bodies
