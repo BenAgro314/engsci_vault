@@ -283,6 +283,8 @@ A **reflex** is a response that occurs without concious effort.
 	- The two interneurons are attached to two **efferent motor neurons**, one which causes EPSPs in the flexor muscle (eg. bicep) and one which causes IPSPs in the extensor muscle (eg. tricep) to cause the limb to withdraw
 - **reciprocal innervation:** when the neurons to one muscle is excited and the neurons to the antagonist muscle is simultaneously inhibited.
 
+![[Pasted image 20210301120209.png]]
+
 ##### Babinski Ankle Jerk Reflex
 
 - big toe straightens and other toes fan outwards when stimulated by a sweaping pressure on the bottom of the foot

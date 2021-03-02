@@ -281,3 +281,78 @@ Recall: **debit increases account value on left hand side, credit increases acco
 	- **credit each expense account its balance, and debit retained earnings the same amount**
 	- **debit revenues account its balance, and credit retained earnings the same ammount**
 	- **find balance of retained earnings account**
+
+### Financial Ratios
+
+- quick an dirty method to interpret aspects of financial statments to determine the performance of a buisness (valuation)
+- used to judge buisness performance relative to a competitor, the industry as a whole, or relative to the companies past
+
+##### Financial Ratio Classifications
+
+1. ability to pay current liabilities (**liquidity ratios**)
+	- curent liabilities: debts the company needs to pay within a certain time period (usually a year)
+	- **current ratio = (current assets)/(current liabilities)**
+		- measures companies ability to pay current liabilities with current assets. 
+		- The higher the current ratio, the better. 
+		- Numbers below 1 could be a sign of concern. Compare to industry average
+	- **acid-test ratio = (cash + short-term investments + net current recievables)/(current liabilities)**
+		- ability to pay current liabilites if they come due immediately 
+		- nessecarily lower than current ratio
+		- an acid-test ratio that is too high may indicate that a company is not efficient in using its cash as the industry average
+2. abillity to sell inventory and collect receivables (**efficiency ratios**)
+	- **inventory turnover = (cost of goods sold)/(average inventory)**
+		- measures number of times the average level of inventory is sold in a year
+		- reduce inventory levels to increase efficiency
+		- higher number indicates an ability to quickly sell inventory
+	- **day's inventory = (average inventory)/(COGS/365)**
+		- inverse of inventory turnover ratio multiplied by the number of days in the period being analyzed
+	- **accounts receivalbes turnover = (net credit sales)/(average net accounts recievable) or = (total sales)/(average net accounts recievable)**
+		- measures a companies ability to collect cash from credit customers
+		- a low accounts receivables turnover indicates that a company is not collecting cash on its sales quickly enough
+	- **days receivables = (average receivables)/(sales/365)**
+		- a longer days receivable (measured in days) means a company is allowing its customers more credit
+		- larger days receivable means a greater chance that customers will not pay their dues
+3. ability to pay long term debt (**leverage ratios**)
+	- **debt ratio = (total liabilities)/(total assets)**
+		- indicates proportion of assets financed by debt
+		- more debt means greater risk, thus shareholders expect larger returns
+		- higher debt ratio implies creater risk of bankruptcy 
+	- **1- debt ratio = equity ratio = (shareholders equity)/(total assets)**
+	- **times interest earned = (income from operations)/(interest expense) or = (EBIT)/(interest expense)**
+		- measures a companies ability to meet its interest payments on its debt
+		- EBIT: earnings before interest and taxes
+		- operating income: profit after subtracting operating expenses
+		- EBIT will include costs and profits not associated with running the buisness, so the numbers may differ
+4. Profitability ratios (some of these fall into the performance ratio category)
+	- **profit margin = (net income)/(sales)**
+	- **return on assets (ROA) aka return on total assets**
+		- meaures how profitably the company uses its assets 
+		- few different formulas
+			- **ROA = (net income)/(assets)**
+			- **ROA = ((net incomes) + (interest)(1-taxes))/(assets)**
+			- use average assets across period for the denominator
+			- tax rate can be found with the income before taxes and income taxes numbers
+	- **Return on equity (ROE) = (net income)/(equity)**
+		- measures how much the company has earned on funds invested by shareholders
+		- equity = common shares + retained earnings	= total shareholders equity
+	- **Earnings per share (EPS) = (Net income)/(total shares outstanding)**
+		- measures the profit of a company on a per-share basis
+		- particularly important for investors
+5. Analysis of shares as an investment (**performance ratios**)
+	- ROA, ROE, and EPS are also considered performance ratios
+	- **Price to earnings ratio P/E = (share price)/(EPS:earnings per share)**
+		- high P/E could mean stock is overvalued or that investors are expecting high growth rates in the future
+		- companies that have no earnings or are losing money do not have this ratio (no denominator)
+		- leverage will impact a companies P/E ratio so be careful when comparing companies
+	- **Dividend yield = (dividend per share)/(price per share)**
+		- shows how much a company pays out in dividends each year relative to its stock price
+		- mature and stable companies are the most likely to pay dividends
+		- high growth companies do not pay dividends
+	- **Market capitalization = (price per share)(shares outstanding)**
+		- not a ratio, but refers the total dollar market value of a companies outstanding shares of a stock
+		- large-cap: 10 billion or more
+		- mid-cap: 2-10 billion
+		- small-cap: 300million to 2 billion
+
+
+

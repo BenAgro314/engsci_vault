@@ -32,8 +32,9 @@
 - **special senses receptor:** turn special sense stimuli into neural stimuli by synapsing with an afferent neuron. This process of turning one form of energy to another is called **transduction**
 - An **adequate stimulus** refers to the type of stimulus (energy) a receptor is specialized to respond to.
 - the perception of sensation depends on the receptor's **modality** rather than the type of stimulus (ie seeing stars when punched in the eyes)
+- **modality:** what the stimulus is percieved as (temperature, pressure etc.)
 - The minimum stimulus required to activate a receptor is known as a the **threshold**
-- Uses of sensory information:
+- **Uses of afferent sensory information**:
 	- control of efferent output 
 	- RAS is critical for cortical arousal and conciousness
 	- perception of the world 
@@ -48,7 +49,7 @@
 
 ##### Adaptation to sustained stimulation
 
-- some receptors diminish the extent of their depolarization despite sustained stimulus strength: **adaptation**
+- some receptors diminish the extent of their depolarization (of receptor potential or generator potential) despite sustained stimulus strength: **adaptation**
 - **tonic receptors**:
 	- to not adapt at all or adapt slowly
 	- important when continual information about the stimulus is nessecary
@@ -64,9 +65,9 @@
 ##### Labelled lines and stimulus location
 
 - pathways conveying **somaesthetic** information to the brain consist of discrete chains of neurons called **labelled lines** that move up the ascending tracts. 
-- one type of nerve only carries one sensation modality
+- one grouping of neurons only carries one sensation modality
 - see [[BME205 Week 5 Review#Grey and White Matter]] for more on neuronal order
-- a specific modality from a specialized receptor is sent over a specific afferent pathway (the one commited to that modality) to excite a defined area of the somatosensory	 cortex. 
+- a specific modality from a specialized receptor is sent over a specific afferent pathway (the one commited to that modality) to excite a defined area of the somatosensory cortex. 
 - **Stimulus type (modality)** -> distiguished by receptor type (and thus pathway)
 - **Stimulus location** -> distingushed by location of activated receptive field and the subsequently activated pathway (location on cortex)
 - **Stimulus intensity** -> frequency of action potentials
@@ -115,13 +116,15 @@
 		- usually synapse on a sympathetic ganglion chain
 		- originate from the thoracic and lumbar spine
 		- some terminate on a modified ganglion called the **adrenal medulla** which is housed in the **adrenal gland** and releases norepinephrine (NE ~ 20%) and epinephrine (E ~ 80%) into the blood
+		- Adrenal gland is connected to the kidney - this is why the old kidney is usually not removed during a transplant
 		- lightly myelinated
 		- some synapse later on **collateral ganglia**
 	- **postganglionic fibers**
 		- have **nicotinic receptors** on their dendrites/cell bodies
 		- secrete NE (**adrenergic fibers**)
 
-Postganglionic fibers in both divisions end in numerous axonal swellings called **varicosities** that allow for one neuron to release neurotransmitter to many target cells simultaneously. (affect whole organs instead of discrete cells)
+Postganglionic fibers in both divisions end in numerous axonal swellings called **varicosities** that allow for one neuron to release neurotransmitter to many target cells simultaneously. (affect whole organs instead of discrete cells). This represents **divergance** of postsynaptic autonomic neurons. 
+- not a 1-1 relationship: each autonomic postganglionic fiber may innervate many target cells, and cell may have mutiple varicosities on it
 
 - the level of ongoing activity from one of the two divisions is called the (sympathetic or parasympathetic) **tone** or **tonic activity**
 
@@ -157,10 +160,12 @@ Postganglionic fibers in both divisions end in numerous axonal swellings called 
 		- prefers NE
 		- Ca2+ second messenger system
 		- sympathetic nervous system
+		- found on most sympathetic targets 
 	- **alpha 2**
 		- inhibitory 
 		- reduction of cAMP second messenger
 		- prefers NE
+		- digestive system organs
 	- **Beta 1**
 		- excitatory
 		- NE and E are equal
@@ -170,23 +175,24 @@ Postganglionic fibers in both divisions end in numerous axonal swellings called 
 		- inhibitory 
 		- cAMP second messenger
 		- prefers E
+		- smooth muscle on bronchioles and certain blood vessels
 	- **Beta 3**
 		- less common
 		- stimulated by sympathetic nervous system to break down fat (along with alpha 2)
 
 ##### Agonists and Antagonists 
 
-- **Agonists** bind to the same receptor and elicit a mimicing effect
+- **Agonists** bind to the same receptor and elicit a mimicing effect eg. nicotine, muscarine mimic ACh responses
 - **Antagonists** competitively inhibit the action of a neurotransmitter (or any first messenger)
 	- **atrophine** blocks the effect of ACh at muscarinic receptors
 	- **Salbutamol** selectively activates Beta 2 receptors (dilation of bronchiles during asthma treatment)
 
 ##### Control of autonomic activities 
 
-1. spinal cord controls reflexes: urination, defecation, erection 
-2. medula is responsible for autonomic output: cardiovascular, respiratory, digestive
-3. hypothalamus integrates autonomic, somatic and endocrine responses that accompany emotional states
-4. prefrontal association cortex can also influence autonomic output 
+1. **spinal cord **controls reflexes: urination, defecation, erection 
+2. **medulla oblangata** (in the brain stem) is responsible for autonomic output: cardiovascular, respiratory, digestive
+3. **hypothalamus** integrates autonomic, somatic and endocrine responses that accompany emotional states
+4. **prefrontal association cortex** can also influence autonomic output (emotional expression of an individuals personality: eg. blushing)
 
 ### 4.10 Somatic Nervous System (193-196)
 
@@ -223,7 +229,7 @@ Postganglionic fibers in both divisions end in numerous axonal swellings called 
 - **Blackwidow venom:** explosive release of ACh causes **depolarization block**
 - **Botulism Toxin:** block release of ACh 
 - **Curare:** blocks action of ACh at receptor sites (antagonist)
-- **Organophosphates:** irreversibly inhibit AChE preventing the inhibition of ACh
+- **Organophosphates:** irreversibly inhibit AChE preventing the inhibition of ACh (eg. **sarin**)
 - **Myasthenia Gravis:** immune disorder that attacks receptors on motor end plate. Administer a drug like **neostigmine** that temporarily inhibits AChE. 	
 
 ![[Pasted image 20210227201744.png]]
