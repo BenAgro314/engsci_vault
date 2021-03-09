@@ -295,7 +295,7 @@ Recall: **debit increases account value on left hand side, credit increases acco
 		- measures companies ability to pay current liabilities with current assets. 
 		- The higher the current ratio, the better. 
 		- Numbers below 1 could be a sign of concern. Compare to industry average
-	- **acid-test ratio = (cash + short-term investments + net current recievables)/(current liabilities)**
+	- **acid-test ratio (aka quick ratio) = (cash + short-term investments + net current recievables)/(current liabilities)**
 		- ability to pay current liabilites if they come due immediately 
 		- nessecarily lower than current ratio
 		- an acid-test ratio that is too high may indicate that a company is not efficient in using its cash as the industry average
@@ -338,6 +338,7 @@ Recall: **debit increases account value on left hand side, credit increases acco
 	- **Earnings per share (EPS) = (Net income)/(total shares outstanding)**
 		- measures the profit of a company on a per-share basis
 		- particularly important for investors
+	- **Debt to equity D/E = (total liabilities)/(total shareholders equity)**
 5. Analysis of shares as an investment (**performance ratios**)
 	- ROA, ROE, and EPS are also considered performance ratios
 	- **Price to earnings ratio P/E = (share price)/(EPS:earnings per share)**

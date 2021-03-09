@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e3e32234bc31f64e",
+        "id": "ae79e5c39ee4a111",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Miscillaneous/ESROP Statment Brainstorm.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "17da353e50fe0c98",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CHE374/CHE374 Week 8.md",
+            "file": "Miscillaneous/ESROP Statement.md",
             "mode": "source"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHE374/CHE374 Week 8.md",
+                "file": "Miscillaneous/ESROP Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +96,15 @@
     "width": 272
   },
   "lastOpenFiles": [
-    "CHE374 Week 8.md",
-    "BME205/BME205 Week 5 Review.md",
-    "BME205/BME205 Week 7 Review.md",
-    "BME205/BME205 Week 3 Review.md",
-    "BME205/BME205 Week 2 Review.md",
-    "BME205/BME205 Week 4 Review.md",
+    "Miscillaneous/ESROP Statement.md",
+    "Miscillaneous/ESROP Statment Brainstorm.md",
     "README.md",
-    "CHE374/Pasted image 20210228160610.png",
+    "Miscillaneous/Untitled.md",
+    "Untitled 1.md",
+    "CHE374/CHE374 Week 9.md",
+    "CHE374/CHE374 Week 7.md",
     "Untitled.md",
-    "BME205/BME205 Week 1  Review.md"
+    "CHE374/CHE374 Week 8.md",
+    "BME205/BME205 Week 8 Review.md"
   ]
 }
