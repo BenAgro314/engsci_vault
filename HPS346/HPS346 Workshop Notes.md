@@ -1,4 +1,14 @@
-  
+- what is the purpose of these experiments (fictional or not) and what did they mean to achieve?
+
+- What is the most desirable quality (or the considerations) that encouraged the experiment to happen?
+
+- how is the narrative constructed and why are certain terms used (robot, modular etc..)? what are the claims being made here?
+
+- **how do we define the notion of "programming the body"? and why should we do so?**
+
+- **what are the ethical implications of this?**
+
+
 
 ##### Breakout Room 1
 - **Review the example: what is its purpose and what does it achieve?  **
@@ -44,4 +54,10 @@
 - control
 - modularity
 - **efficiency** <- buiani's big word
--  
+
+
+recall:
+
+In reviewing the suggested reading this week by Depew, I was really taken by the idea of **"substrate neutrality"** put forth by Daniel Dennet. In Dennet's conception, natural selection is a "formal algorithmic process" that can be run on carbon of silicon-based life forms making it substrate neutral. I think analyzing this concept in light of the discussion of the computational/machinic view of the human body could be quite enlightening. Questions arise like "what really separates biological life from machines?" and "at what point in the development of AI systems will we have to treat them as conscious like ourselves?" 
+
+While we tend to apply machinic models to biological life, I think the reverse will not be something that comes so easily, namely ascribing life, consciousness, and moral worth to non-biological systems. Just like the anthropocentrism that arises from Cartesian dualism, we will tend to be carbon-centric when it comes to what we consider to be living. This could present a dangerous dilemma if AI systems can really be conscious like humans.
