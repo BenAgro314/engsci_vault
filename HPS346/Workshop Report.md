@@ -28,10 +28,19 @@ Vlasman is also reminiscent of Dr. He Jiankui as described by Kirksey. They are 
 
 ### Key Questions and Discussion
 
-Throughout the workshop discussion, many important and provacative questions were raised. Here, we will examine two of these questions, and pose some related areas for future research.
+Throughout the workshop discussion, many provocative questions were raised. Here, we will identify and examine one of these questions:
 
-The first question is **what are the current and future ethical implications of the Xenobot and (hyporthetically) modular body technologies?** This question is important because it probe the societal consequences these technologies could have once adopted (postman). Thus, the answers to this question will direct further technological development and regulatory protocols.
+*How do we define the notion of "programming the body" and why is it important to do so?*
 
+Generally, "programming the body" can be broken down into two categories: genetic and morphological. 
+
+Genetic programming refers to the emerging practice of altering the genome of an organism during its embryonic development to elicit desired phenotypic changes (citation). In this sense, the "source code" for life (the genome) is being "programmed" (altered). The vanguard technology in this field is CRISPR/Cas-9 (citation). 
+
+However, we must recognize the limitations of the term "programming" in this context. As many scholars have highlighted, the current technologies we have to edit the genome are inaccurate. Eben Kirksey describes CRISPR/Cas-9 as less of an editing tool than a predator drone with a tactile missile. There is a chance of missing the target genes and a risk of collateral damage to other nucleotides, contrasting the notion of programming in its conventional setting, where editing source code is a matter of precisely changing letters through a computer terminal. This distinction is important to make in considering the potential ramifications of testing CRISPR/Cas-9 on humans. Even with modern code editors and debugging tools, consequential programming errors make it to commercial products (citation). How can we expect to make non-trivial edits with CRISPR/Cas-9 without making devastating mistakes? Thus, we must understand the limitations of the "programming" analogy in our current techniques to alter the genome. 
+
+Morphological programming refers to encoding the functions and behaviors of an organism in the physical features of its body (their morphology). The Xenobots are a prime example of this. Their morphology was "programmed" by an evolution algorithm to elicit certain behaviors in the Xenobots despite their lack of a nervous system. Whereas computer programming acts on software, morphological programming acts on the structural features of life. This idea is present in the modular body. As Vlasman's promotional material explains, the advantages of a modular body system come from its morphological differences to a closed system. 
+
+This distinction is important because while both genetic and morphological programming aim to obtain phenotypic changes, their methodologies differ. Genetic programming indirectly alters the phenotype by changing the genome, whereas morphological programming directly builds organisms with a desired structure. Both paradigms present unique research challenges and questions. While CRISPR/Cas-9 technology poses ethical complications for society through the potential human alteration, morphological programming could allow for the synthesis of novel biological robots. As scholars have highlighted, these biological robots could do good (cleaning plastics from the ocean, microsurgery) or great harm (biological weapons) (citation). 
 
 
 ### Annotated Bibliography
