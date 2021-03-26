@@ -4,25 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "71aabaa87d6b4462",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "HPS346/HPS346 Workshop Notes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f478f09fb7300967",
+        "id": "cbdfd8a145c243c0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "HPS346/Workshop Report.md",
-            "mode": "source"
+            "file": "CHE374/CHE374 Week 9.md",
+            "mode": "preview"
           }
         }
       }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HPS346/Workshop Report.md",
+                "file": "CHE374/CHE374 Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +85,15 @@
     "width": 272
   },
   "lastOpenFiles": [
-    "HPS346/Workshop Report.md",
+    "CHE374/CHE374 Week 9.md",
+    "CHE374/CHE374 Week 10 Inflation.md",
+    "Untitled.md",
+    "HPS346/Word-counting.md",
     "HPS346/Week 9 Pepper Post.md",
     "HPS346/Week 8 Pepper Post.md",
-    "Untitled.md",
     "HPS346/HPS346 Workshop Notes.md",
+    "HPS346/Workshop Report.md",
     "CHE374/CHE374 Week 8.md",
-    "CHE374/CHE374 Week 9.md",
-    "HPS346/HPS346 Workshop.md",
-    "HPS346/Untitled.md",
-    "Miscillaneous/ESROP Statment Brainstorm.md"
+    "HPS346/HPS346 Workshop.md"
   ]
 }
