@@ -130,6 +130,7 @@ ways to decrease heart rate (opposite to increase):
 ![[Pasted image 20210328103458.png]]
 
 ![[BME205 Wiggers Diagram .pdf]]
+![[Pasted image 20210328113512.png]]
 
 1. **A. Mid ventricular diastole (diastasis)** 
 	- atrium is also in diastole
@@ -166,6 +167,27 @@ ways to decrease heart rate (opposite to increase):
 	- both mitral and aortic valves are closed for a time until the ventricular pressure drops below the atrial pressure
 	- during this period, the ventricles are relaxing and the pressure is droping but the volume remains constant
 10. **Ventricular Filling**
-	- 
+	- one cardiac cycle lasts 800 ms 
+	- 300 ms -> ventricular systole
+	- 500 ms -> ventricular diastole
+	- during times of rapid heart rate 
+		- diastole length is shortend much more than systole length
+		- a larger component of ventriclar filling is attributed to atrial contraction
 
-![[Pasted image 20210328113512.png]]
+![[Pasted image 20210328115122.png]]
+
+##### Heart Sounds
+
+- **first heart sound (lub)**: due to AV valve closure
+- **second heart sound (dup)**: due to semilunar valve closure
+- sounds come from vibrations in heart walls due to valve closure
+
+##### Heart Murmurs
+
+- **insufficient valve (leaky):** cannot close completely. Produces a **swish** sound as blood flows backwards (**regurgitation**) through the valve creating turbulence
+- **stenotic (stiff) valve:** cannot open completely. Produces a whistle noise. 
+- A sound between lub and dup is a **systolic murmer** (occurs during ventricular systole). During (most of) this time, the AV valves should be closed and the semilunar valves should be open.
+- A sound between dup and lub is a **diastolic murrmer** (occurs during ventricular diastole). During (most of) this time, the AV valves should be closed, and the semilunar valves should be open
+- below is a summary of the murmur sounds, their locations, and the associated diagnosis of the valves
+
+![[Pasted image 20210328115742.png]]
