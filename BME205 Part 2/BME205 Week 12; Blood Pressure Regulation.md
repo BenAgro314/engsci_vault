@@ -1,5 +1,7 @@
 # Blood Pressure Regulation
 
+**microcirculation** refers to blood flow through the **arterioles** -> **capillaries** -> **venules**.
+
 ![[Pasted image 20210329192727.png]]
 
 ### Intermittent Flow Through A Flexible Tube

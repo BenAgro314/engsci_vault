@@ -95,6 +95,8 @@ note: average aortic flow rate is 4900 ml/min, which of course equals the cardia
 - **the more you stretch the heart, the greater force/pressure it can generate**
 	- stretching occurs due to diastolic filling => a greater EDV -> greater force can be generated -> greater stroke volume
 	- the larger the **preload** (amount that flows into the ventricles during diastole), the creater the force generated
+	- the **afterload** refers to the forces that the heart is contracting against
+		- it is a combination of the EDV and the **blood pressure** the heart is contracting against <- greater contributor to afterload
 - this mechanism allows for balanced output between the two sides of the heart
 	-  if the right side of the heart was ejecting more blood, more would enter the left side -> more would leave the left side -> balance
 -  If venous return is increased, the strength of contraction and thus the stroke volume can also be increased 

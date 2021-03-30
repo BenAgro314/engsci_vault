@@ -4,27 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c09585b40d29a458",
-        "type": "leaf",
-        "dimension": 50.70074196207749,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "9003bea282245112",
         "type": "leaf",
-        "dimension": 49.299258037922506,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-            "mode": "preview"
+            "file": "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "order",
+                "query": "stroke volume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
+                "file": "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +85,15 @@
     "width": 280
   },
   "lastOpenFiles": [
-    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-    "Pasted image 20210329185806.png",
-    "Untitled.md",
-    "Pasted image 20210329181449.png",
-    "Pasted image 20210329183231.png",
     "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
+    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
+    "BME205 Part 2/BME205 Wiggers Diagram.pdf",
+    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md",
+    "BME205 Part 2/BME205 Week 10; Cardiac ECG and Cycle.md",
     "BME205 Part 2/BME205 Wiggers Diagram .pdf",
+    "BME205 Part 1/BME205 Week 7 Review.md",
     "Untitled 1.md",
     "BME205 Part 2/BME205 Week 9; Skeletal and Cardiac Muscle.md",
-    "BME205 Part 2/BME205 Week 10; Cardiac ECG and Cycle.md"
+    "Pasted image 20210329190324.png"
   ]
 }
