@@ -117,6 +117,7 @@ note: average aortic flow rate is 4900 ml/min, which of course equals the cardia
 	- NE and some E
 	- increased Ca2+ currents and availability in cytosol of ventricular myocytes -> increased force developed by ventricular myocytes and the force of ventricular contraction
 	- Symapthetic stimulation **shifts the frank-starling curve**
+	- tag: inotropic effect
 
 ![[Pasted image 20210328123836.png]]
 ![[Pasted image 20210328123820.png]]

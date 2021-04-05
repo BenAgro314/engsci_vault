@@ -59,7 +59,7 @@ Voluntary|✓|X|X|
 - **Z line:** flat cytoskeletal disc that connects the thin filaments of adjacent sarcomeres 
 - **muscle growth** is achieved by adding new sarcomeres to the end of myofibrils, not by increasing the size of each sarcomere
 - **titin:** 
-	- highly elastic protein that connects the ends of the thick filaments to the z line.
+	- highly elastic protein that connects the M line and the Z line along a thick filament
 	- made of 30000 amino acids
 	- stabilizes postion of thick filaments in relation to thin filaments
 	- contributes to muscle elasticity (spring like)
@@ -94,6 +94,8 @@ Voluntary|✓|X|X|
 ##### Cross Bridge Cycle
 
 ![[cross_bridge.jpg]]
+
+- note: during the power stroke: P is released during and ADP is released afterwards. 
 
 - sarcomeres contract via the **sliding filament mechanism**
 	- thin filaments are pulled inwards towards the M band via **cross bridge cycling**

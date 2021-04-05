@@ -62,6 +62,8 @@ $$\text{TPR} \sim \eta $$
  
  ![[Pasted image 20210329184440.png]]
  
+ ![[Pasted image 20210330200445.png]]
+ 
  - **reconditioning organs** (eg, kidneys, digestive tract, skin)
 	 - get more blood
  
@@ -132,12 +134,14 @@ $$\text{TPR} \sim \eta $$
 ###### Local influences
 
 - **active hyperaemia:** vasodilation -> more blood to area
+	- arteriolar dilation in response to local chemical changes that accompany increased metabolic activity of the tissue
 - causes of vasodilation 
 	- less O2
 	- more CO2
+	- increased potassium
 	- more acid
 	- more osmolarity (concentration of solutes)
-	- adenosin release
+	- adenosine release
 	- prostaglandin release
 
 ###### Local Vasoactive mediators
