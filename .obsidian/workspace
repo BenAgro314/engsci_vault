@@ -6,12 +6,25 @@
       {
         "id": "9003bea282245112",
         "type": "leaf",
+        "dimension": 50.041220115416316,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+            "file": "Untitled.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3e2726d50a4716cc",
+        "type": "leaf",
+        "dimension": 49.95877988458368,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +98,15 @@
     "width": 280
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Week 10 Pepper Post.md",
+    "Pasted image 20210405181111.png",
+    "HPS346/Word-counting.md",
+    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
     "Untitled 1.md",
     "CHE374/CHE374 Week 10 Inflation.md",
     "CHE374/CHE374 Week 9.md",
-    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md",
-    "BME205 Part 2/BME205 Week 9; Skeletal and Cardiac Muscle.md",
-    "BME205 Part 2/BME205 Week 8; Skeletal Muscles.md",
-    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-    "BME205 Part 2/BME205 Week 10; Cardiac ECG and Cycle.md",
-    "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
-    "BME205 Part 1/BME205 Week 2 Review.md"
+    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md"
   ]
 }

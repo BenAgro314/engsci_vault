@@ -25,6 +25,14 @@
 
 ## Anatomy of Respiration
 
+![[Pasted image 20210405165321.png]]
+
+![[Pasted image 20210405165514.png]]
+
+![[Pasted image 20210405165604.png]]
+
+- bronchi 
+
 - two main components: lungs and chest wall
 	- lungs have **airways** and **alveoli**
 	
@@ -37,6 +45,10 @@
 -	smooth muscle tone controls resistance to airflow 
 -	alveoli have no muscles (they would interfere with diffusion)
 -	changes in lung volume result from changes in thoracic cavity caused by **diaphram** and **internal** and **external** intercostal muscles and abdominal muscles
+
+![[Pasted image 20210405175225.png]]
+
+![[Pasted image 20210405175327.png]]
 
 ### Airways
 
@@ -134,12 +146,14 @@
 	- can generate higher pressure than inspriation due to the importance of these protective reflexes
 	
 	- **pleural space:** 
-		- lungs and other internal structures are covered by the visceral membrane
-		- inside wall of thorax is lined with parietal membrane
+		- lungs and other internal structures are covered by the visceral membrane (pleura)
+		- inside wall of thorax is lined with parietal membrane (pleura)
 		- space between these membranes (few mm of fluid) is called the **peural space (cavity or sac)**
 		- **pleural fluid** lubriactes surfaces of two membranes as they slide past one another during breathing
 
 ![[Pasted image 20210405112432.png]]
+
+![[Pasted image 20210405175140.png]]
 	
 
 # 12.2 Respiratory Mechanics
@@ -166,6 +180,8 @@ $$ Q = \frac{\Delta P}{R} $$
 ![[Pasted image 20210405120747.png]]
 
 ## Mechanical Properties
+
+
 
 ![[Pasted image 20210405120940.png]]
 
@@ -203,18 +219,27 @@ $$ Q = \frac{\Delta P}{R} $$
 		- this was demonstrated by filling the lungs with saline, where the water molecules are far less attractive
 		- resists increases in surface area
 		- tends to expel alveolar gas
+		- creates and inward directed pressure that makes expansion more difficult
 
 ![[Pasted image 20210405122735.png]]
 
 ### Alveolar Stability 
 
-- **law of LaPlace**: magnitude of collapsing pressure of bubbles:
+![[Pasted image 20210405165904.png]]
+
+- **law of Laplace**: magnitude of collapsing pressure of bubbles:
 	
 $$ P = \frac{2T}{r}$$ 
 
 - P: collaping pressure, T: surface tension, r: radius of bubble (alveoli)
 - the smaller the alveolus, the greater the collapsing pressure
 	- smaller albeoli will collapse and force their air into connected larger alveoli
+
+
+![[Pasted image 20210405174524.png]]
+
+![[Pasted image 20210405174734.png]]
+
 - factors resisting collapse:
 	- **pulmonary surfactant:**
 		- mixture of lipids and proteins secreated by type II alveolar cells 
@@ -223,6 +248,7 @@ $$ P = \frac{2T}{r}$$
 		- two benefits:
 			- increased pulmonary compliance -> reduced work to inflate the lungs
 			- reduces recoil pressure of smaller alveoli more than larger alveoli. This means that alveoli of different sizes can exist. Minimizes tendency of small alveoli to empty into larger ones
+				- smaller surface area of small aveoli -> higher density of surfactant -> reduced surface tension
 	- **alveolar interdependance:**
 		- if an alveoli begins to collapse -> neighbours are stretched towards collapsing alveoli (see figure below) -> recoil of neighbours exerts an expanding force on the collapsing alveoli, resisting its collapse. 
 
@@ -251,6 +277,8 @@ $$ P = \frac{2T}{r}$$
 	- we cannot change recoil pressure to change alveolar pressure (circular argument: recoil pressure of lung depends on lung volume but alvolar pressure is a function of lung volume)
 	- pleural pressure must change
 		- activating inspiratory muscles -> reduces pleural pressure (and visa versa)
+
+![[Pasted image 20210405175516.png]]
 
 ### Onset of Inspiration : Contraction of inspiratory muscles
 
@@ -296,10 +324,29 @@ $$ P = \frac{2T}{r}$$
 		- at some point along the airways the pressure drops below the pleural pressure. this is known as the **equal pressure point**, where the **transmural pressure** switches from positive to negative (inside > outside to inside < outside)
 		- this means the airway is under compression
 
+![[Pasted image 20210405175831.png]]
+
+![[Pasted image 20210405180155.png]]
+
+![[Pasted image 20210405180319.png]]
+
+![[Pasted image 20210405180433.png]]
+
+- pleural pressure leads lung recoil pressure
+- trumpet players can expire 45 cmH2O more than you
+
+![[Pasted image 20210405180818.png]]
+
+![[Pasted image 20210405180924.png]]
+
+- expiratory muscle trainer:
+
+![[Pasted image 20210405181111.png]]
+
 ### Airway resistance and airflow
 
 - **poiseuille's law:**
-$$ R = \frac{8\etal}{r^4} $$
+$$ R = \frac{8\eta}{r^4} $$
  - under normal conditions, this resistance is very low
  - only small pressure gradients are required to create flow
  - parasympathetic activity (at rest) promotes **bronchoconstriction**
