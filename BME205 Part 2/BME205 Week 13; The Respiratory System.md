@@ -378,6 +378,8 @@ $$ R = \frac{8\eta}{r^4} $$
 	- airway hyper-responsivness: constriction of smaller airways due to spasm of smooth muscle in their walls 
 	- very common childhood disease and increasing 
 	- attacks can be caused by allergens, irritants, and infections
+
+![[Pasted image 20210408184412.png]]
 - **COPD**
 	- aka **emphysema** or **chronic bronchitis**
 	- slowly damages airway, usually result of smoking, coal, asbestos, or silica (work exposure)
@@ -387,6 +389,9 @@ $$ R = \frac{8\eta}{r^4} $$
 		- triggered by frequent exposure to cigarette smoke, polluted air, or allergens
 		- thick mucus (irritants immobilize **ciliary mucus escalator**)
 		- promotes bacterial infections (mucus is a good medium for bacterial growth)
+		- lungs can become hyper inflated with trapped air
+	![[Pasted image 20210408184735.png]]
+		
 	- **emphysema:**
 		- collapse of smaller airways
 		- breakdown of alveolar walls
@@ -394,6 +399,8 @@ $$ R = \frac{8\eta}{r^4} $$
 		- this can overwhelm the capacity of the inhibitory protein (**alpha - antitrypsin**) which results in damage to the lung tissues
 		- can also result from genetic incapability to produce alpha-antitrypsin
 			- only treatment is lung transplant
+	![[Pasted image 20210408184554.png]]
+
 	- **difficulty breathing out**
 		- expiration becomes more difficult than inspiration (for any disease that increases resistance)
 			- smaller airways lack cartilagenous rings that hold larger ones open
@@ -413,6 +420,8 @@ $$ R = \frac{8\eta}{r^4} $$
 	- drum rises and falls during breathing -> recorded with a moving pen on paper. Plot is called a **spirogram**
 	- spirogram is calibrated to measure the volume 
 	- modern devices use turbines to measure flow and then integrate over the curve to obtain changes in volume
+
+![[Pasted image 20210408183518.png]]
 
 ![[Pasted image 20210405142004.png]]
 
@@ -435,7 +444,7 @@ $$ R = \frac{8\eta}{r^4} $$
 	- average 5700 ml
 - **forced expiratory volume in one second ($FEV_1$)**: volume of air expired during the first second on a maximal expiratory effort starting from TLC.
 	- usually expressed as ratio with forced vital capacity $FEV_1/FVC$
-	- 80 percent or more in young healthy people
+	- $FEV_1/FVC > 80\%$  in young healthy people
 	- decreases with age
 	- can estimate **maximum voluntary ventelation (MVV) L/min** by multiplying $FEV_1$ by 35. 
 
@@ -449,9 +458,17 @@ $$ R = \frac{8\eta}{r^4} $$
 - **obstructive lung disease**
 	- lower $FEV_1$ and cannot breath out to a low lung volume because airways close, trapping gas
 	- FRC and RV are greater, but VC is smaller
+	- under heading of COPD
+![[Pasted image 20210408184438.png]]
+![[Pasted image 20210408185000.png]]
+![[Pasted image 20210408185020.png]]
 - **restrictive lung disease**
-	- less compliant lungs than normal
+	- less compliant lungs than normal (stiffer than normal lungs)
 	- breaths at lower lung volume but can still breath out a normal or greater than normal fraction of vital capacity in the first second 
+![[Pasted image 20210408185110.png]]
+![[Pasted image 20210408185211.png]]
+![[Pasted image 20210408185243.png]]
+![[Pasted image 20210408185326.png]]
 - can plot flow versus volume for insight:
 	- first part of curve is **effort dependent**
 	- second part of curve is **effort independent**
@@ -488,7 +505,7 @@ $$ R = \frac{8\eta}{r^4} $$
 ### Pulmonary Alveolar Ventellation
 
 - **minute ventilation:** volume of gas breathed during a minute
-- $\dot{V}_E = V_T \time f$ where V_E is the minute ventellation, f is the respiratory rate, and V_T is the tidal volume 
+- $\dot{V}_E = V_T \times f$ where V_E is the minute ventellation, f is the respiratory rate, and V_T is the tidal volume 
 - at rest V_E = 6 L/min (= 12 * 0.5)
 - can be briefly voluntarily increased to 150 L/min
 	- increased tidal volume first, then increased frequency 
@@ -514,13 +531,18 @@ $$ R = \frac{8\eta}{r^4} $$
 	- 500 ml also had to leave the alveoli -> first 350 goto atmosphere while 150 remain in airways
 - on next inspiration, 150 ml air from dead space enter alveoli first (only 350 of fresh air enter -> rebreathing own air)
 
+![[Pasted image 20210408182518.png]]
+
 ### Alveolar Ventillation
 - to have a non zero **alveolar ventillation $\dot{V}_A$**, tital volume must exceed dead space
 
 ![[Pasted image 20210405150616.png]]
 
+- note there is an error in the second to last row of the above table. It should be V_E = 0.2
+
 - during exercise, wasted ventillation $V_D/V_E$ decreases and $V_A/V_E$ increases => higher efficiency of breathing
 - cannot increase tidal volume too much with moving to the low compliance part of the pressure volume curve and increasing the required work to breath
+	- therefore we first increase tidal volume then increase breathing rate
 
 ### Work of Breathing
 

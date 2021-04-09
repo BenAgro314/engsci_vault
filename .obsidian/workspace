@@ -4,26 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9003bea282245112",
+        "id": "177a77eb7f51fddc",
         "type": "leaf",
-        "dimension": 50.041220115416316,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "3e2726d50a4716cc",
+        "id": "e3a8b36c9efb29a4",
         "type": "leaf",
-        "dimension": 49.95877988458368,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+            "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
             "mode": "preview"
           }
         }
@@ -82,10 +79,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,16 +96,17 @@
     "direction": "horizontal",
     "width": 280
   },
+  "active": "177a77eb7f51fddc",
   "lastOpenFiles": [
+    "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
+    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md",
+    "BME205 Week 14; Control of Breathing.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Pasted image 20210408182518.png",
     "README.md",
     "Week 10 Pepper Post.md",
-    "Pasted image 20210405181111.png",
-    "HPS346/Word-counting.md",
-    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
-    "Untitled 1.md",
-    "CHE374/CHE374 Week 10 Inflation.md",
-    "CHE374/CHE374 Week 9.md",
-    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md"
+    "Pasted image 20210405181111.png"
   ]
 }
