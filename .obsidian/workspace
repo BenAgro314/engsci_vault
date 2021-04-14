@@ -6,17 +6,18 @@
       {
         "id": "177a77eb7f51fddc",
         "type": "leaf",
+        "dimension": 50.206100577081614,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
-            "mode": "source"
+            "file": "BME205 Part 2/images/Pasted image 20210413110014.png"
           }
         }
       },
       {
         "id": "e3a8b36c9efb29a4",
         "type": "leaf",
+        "dimension": 49.793899422918386,
         "state": {
           "type": "markdown",
           "state": {
@@ -50,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ductus art",
+                "query": "wigger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
+                "file": "BME205 Part 2/images/Pasted image 20210413110014.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "177a77eb7f51fddc",
   "lastOpenFiles": [
+    "Pasted image 20210413110014.png",
     "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
-    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+    "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
+    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
+    "BME205 Part 1/BME205 Week 4 Review.md",
+    "BME205 Part 1/BME205 Week 7 Review.md",
+    "BME205 Part 1/BME205 Week 5 Review.md",
     "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md",
-    "BME205 Week 14; Control of Breathing.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Pasted image 20210408182518.png",
-    "README.md",
-    "Week 10 Pepper Post.md",
-    "Pasted image 20210405181111.png"
+    "BME205 Part 2/BME205 Week 10; Cardiac ECG and Cycle.md",
+    "BME205 Part 2/BME205 Week 13; The Respiratory System.md"
   ]
 }

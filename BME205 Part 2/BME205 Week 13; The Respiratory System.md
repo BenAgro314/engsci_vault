@@ -465,6 +465,7 @@ $$ R = \frac{8\eta}{r^4} $$
 - **restrictive lung disease**
 	- less compliant lungs than normal (stiffer than normal lungs)
 	- breaths at lower lung volume but can still breath out a normal or greater than normal fraction of vital capacity in the first second 
+	- an example is pulmonary fibrosis
 ![[Pasted image 20210408185110.png]]
 ![[Pasted image 20210408185211.png]]
 ![[Pasted image 20210408185243.png]]
