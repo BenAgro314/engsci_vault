@@ -8,9 +8,10 @@
         "type": "leaf",
         "dimension": 50.206100577081614,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "BME205 Part 2/images/Pasted image 20210413110014.png"
+            "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
+            "mode": "source"
           }
         }
       },
@@ -51,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wigger",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BME205 Part 2/images/Pasted image 20210413110014.png",
+                "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "177a77eb7f51fddc",
   "lastOpenFiles": [
-    "Pasted image 20210413110014.png",
     "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
-    "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
-    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-    "BME205 Part 1/BME205 Week 4 Review.md",
-    "BME205 Part 1/BME205 Week 7 Review.md",
-    "BME205 Part 1/BME205 Week 5 Review.md",
+    "Pasted image 20210415153542.png",
     "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md",
-    "BME205 Part 2/BME205 Week 10; Cardiac ECG and Cycle.md",
-    "BME205 Part 2/BME205 Week 13; The Respiratory System.md"
+    "BME205 Part 2/BME205 Wiggers Diagram.pdf",
+    "BME205 Part 2/BME205 Week 8; Skeletal Muscles.md",
+    "Pasted image 20210414075201.png",
+    "Pasted image 20210414075308.png",
+    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
+    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+    "Pasted image 20210413110014.png"
   ]
 }

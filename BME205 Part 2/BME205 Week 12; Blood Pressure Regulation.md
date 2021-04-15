@@ -221,3 +221,89 @@ $$\text{TPR} \sim \eta $$
 
 ![[Pasted image 20210329192657.png]]
 
+
+### The Baroreceptor Reflex
+
+- change in cardiac output and total peripheral resistance due to blood pressure stimuli
+- **recetors:**
+	- **carotid sinus**
+	- **aortic arch**
+	- mechanoreceptors sensitive to changes in mean arterial pressure and pulse pressure
+	- these are tonic (continually generate APs in response to blood pressure)
+	- higher blood pressure => increased rate of AP firing (and visa versa)
+
+
+![[Pasted image 20210414075201.png]]
+![[Pasted image 20210414075308.png]]
+
+- integrated by **cardiovascular control center** in the medulla of the brain stem
+	- alters ratio between sympathetic and parasympathetic activity to effector organs
+- see figure below for the response to changes in BP:
+	- increased parasympathetic stimulation => decreased HR => decreased CO => decreased BP
+	- increased sympathetic stimulation=>
+		- increased HR and contractile strength => increased CO => increased BP
+		- vasocontriction of arterioles => increased total peripheral resistance => increased BP
+		- vasocontriction of veins => increased venous return => increased stroke volume => increased CO => increased BP
+
+![[Pasted image 20210414075350.png]]
+
+### Other Reflexes and Responses
+
+- left arterial volume receptors and hypothalamic osmoreceptors are important to maintain the salt balance in the blody. they affect BP by controlling plasma volume
+- chemoreceptors in carotid and aortic arteries are sensitive to low oxygen (< 60 mmHg) or high acid levels. This increases respiratory activity and increased BP by sending excitatory signals to the cardiovascular center
+- behviours and emotions affect cardiac output through the cerebral cortex hypothalamic pathway (sympathetic fight or flight, sexual arousal, blushing)
+- cardiovascular changes due to exercise. yet unindentified exercise centers in the brain (see summary table below)
+- hypothalamic control over cutaneous (skin) arterioles for the purpose of temperature control. This takes precidence over the same control of these vessels for the purposes of BP
+- vasoactive substances released from enothelial cells play a role in mediating blood pressure (eg. nitric oxide, NO, causes vasodilation)
+
+![[Pasted image 20210414080145.png]]
+
+### Orthostatic Hypotension
+
+- transient hypotensive (low BP) condition where there is insufficient compensatory responses to gravitational shifts of blood when a person moves from the horizontal to vertical position
+- standing up after lying for a long time causes blood to pool in the legs, reducing venous return
+	- decreases stroke volume and thus CO
+	- this is detected by baroreceptors which initiate compensatory responses
+- these reflexes may be reduced after a long bed rest => dizzyness or fainting
+- see summary picture below
+
+![[Pasted image 20210414081107.png]]
+
+
+### Circulatory Shock
+
+- when BP is slow low flow to the tissues can no longer be maintained
+1.  **Hypovolemic (low volume) shock**: caues by a fall in blood volume (hemmorage, diarrhoea, urinary losses, sweating)
+2.  **Cardiogenic (heart-produced)**: weakened heart
+3.  **Vasogenic (vessel produced)**: widespread vasodilation triggered by some vasodilator substance. **Septic shock** results from massive infections that release these substances. **Anaphylactic shock** results from extensive histamine release due to a severe allergic reaction
+4. **neurogenic shock** involves generalized vasodilation as a result of a loss of sympathetic vascular tone. This can be caused by deep pain.
+
+#### Consequences and Compensations
+
+- reduction in blood volume causes a decreased venous return and a fall in cardiac output and blood pressure (after a haemmorage)
+- compensatory measures try and ensure blood flow to the brain
+- baroreceptor reflex causes increased sympathetic stimulation and decreased parasympathetic stimulation => increased HR to offest decreased stroke volume due to lower blood volume. This causes a weak but rapid pulse
+- generalized vasoconstriction due to increased sympathetic activity => inreased venous return by means of frank-starling
+- increased heart contractility => increased SV
+- increased CO results
+- increased peripheral resistance + increased CO => compensatory increase in BP
+- fluid shift from interstitial fluid to increase blood volume **(autotransfusion)**
+- plamsa protein synthesis follows which helps maintain blood volume with osmotic gradient
+- urinary output is reduced
+	- caused by renal vasocontriction
+	- retains blood volume and thus enhances CO
+- increased thirst
+- incrased production of red blood cells (over the course of a week)
+
+
+![[Pasted image 20210414081249.png]]
+
+
+#### Irreverible Shock
+
+- metabolic acidosis due to lactice acid production of O2 deprived tissues
+- this deranges enymes involved in energy production and limits ATP production
+- electrolyte imbalances from prolong kidney disfunction will lead to cardiac arryhtmias
+- blood deprived pancrease will release myocardial toxic factor which weakens the heart
+- vasodilator substances build up in organs 
+- increasing hypotension in a positive feedback loop => death

@@ -463,6 +463,9 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 			- firing causes inspiration (by stimulating efferent neuronal cell bodies in the spinal cord)
 			- many DRG neurons project into the VRG
 				- if these projections are their only ones, the neurons are called **respiratory interneurons**
+			- see image below
+			- excitation for about 2 seconds for contraction and inspiration
+			- inhibition for about 3 sections for relaxation and expiration
 		- **vental respiratory group (VRG)** 
 			- composed of inspiratory neurons and expiratory neurons
 			- expiratory neurons
@@ -470,6 +473,12 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 					- project to motor neurons in the spinal cord that innervate the expiratory pump muscles (abnominal and internal intercostal muscles)
 				- expiratory motor neurons
 					- innervate muscles that narrow (adduct) the upper airways
+			- during inspiration, excite inspiratory muscles that widen the upper airway
+			- during expiration: expiratory muscles during active expiration
+	
+![[Pasted image 20210415155215.png]]	
+![[Pasted image 20210415155419.png]]
+
 
 #### Generation of respiratory rhythm
 
@@ -478,7 +487,50 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 	- botzinger complex
 	- VRG
 	- pons
+	- there is a **reverberating circuit:**
+	![[Pasted image 20210415153301.png]]
+	- inspiratory rhythmogenic sites:
+		- **preBotzinger complex**: inspiratory (most like SA node)
+		- **postinspiratory complex**: post inspiration
+		- **expiratory:** parafacial respiratory group
+![[Pasted image 20210415153542.png]]
+- these sites overlap with respiratory centers:
+![[Pasted image 20210415153704.png]]
 
+#### Schematic of Neural Control of Breathing
+- rhythm generators (in medulla of brain stem) -> pattern generator ->
+	- cranial nerves -> airway muscles
+	- spinal nerves -> diaphragm and external intercostal muscles
+	- mechanoreceptors in alveoli -> rhythm generators
+	- chemoreceptors in blood (blood pH) -> rhythm generators 
+
+![[Pasted image 20210415154055.png]]
+
+#### Control of Ventillation
+
+- higher centers influence brain stem which contains central chemoreceptors, sensory integration, and central pattern generators
+- spinal cord gets signals from brain stem and higher brain centers
+- the spinal cord signals the respiratory muscles through the **phrenic** (diaphragm) and **intercostal** nerves
+- from brain stem, multiple cranial nerves go to the respiratory system
+	- VII (7) facial nerve (nostil movement, mouse, pursed breathing)
+	- IX (9) glossopharyngeal (larynx and pharaynx)
+	- X (10) vagus (laryngeal muscles)
+	- XI (11) accessory nerve (neck and trapezius muscles)
+	- XII (12) hypoglossal nerve (tounge)
+- feedback from chest wall, diaphragm and conducting airways 
+	- via spinal nerves to spine
+	- via vagus nerve (X) to brain stem
+- chest wall, diaphragm, and conducting airways control ventillation
+	- lowers PCO2, increases PO2 and increases pH
+	
+	![[Pasted image 20210415154837.png]]
+	
+	- an increase in PCO2 excites peripheral chemoreceptors
+	- a decease in O2 excites peripheral chemoreceptors
+	- a decrease in pH excites peripheral chemoreceptors
+	- and increase in PCO2 excites central chemoreceptors 
+	- peripheral chemoreceptors signal brain stem via nerves IX and X
+	
 
 ### Influences from higher centers
 
@@ -541,6 +593,9 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 	-  large tidal volumes are assoicated with short inspiratory durations and visa versa
 -  little evidence this reflex operates in concious animals, especially in concious humans
 
+- out of about 700 breaths per hour, roughly 12 will be sighs 
+
+
 #### Chest Wall Receptors
 
 - **Diaphragm**
@@ -555,6 +610,33 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 
 ![[Pasted image 20210413193305.png]]
 
+- note: PaCO2 is the most important signal for regulating ventillation under resting conditions
+
+- peripheral chemoreceptors measure PaCO2 and PaO2 (carotid bodies and aortic arch receptors)
+	-	**carotid body receptors** respond most to a change in PaO2. These don't respond until PaO2 drops below 60 mmHg (off the plateau portion of the dissociation curve). Reacts to reflexively increase ventillation. Does not respond above 60 mmHg because blood is already well saturated (>90%). These are the most the more effective peripheral chemoreceptor for the respiratory system. 
+	- **Aortic arch receptors** respond to oxygen concentration rather than saturation. Helps detect anemia. Affect cardiac output moreso than ventillation. 
+- central chemoreceptors (in brain stem) measure PaCO2
+	-	mainly respond to changes in H+ generated in the brain stem  via the reaction pictured below
+	-	increases ventillation to blow off excess CO2
+
+![[Pasted image 20210415160740.png]]
+
+![[Pasted image 20210415160025.png]]
+
+##### Response to hypoventillation
+
+- see figures below
+
+![[Pasted image 20210415161038.png]]
+
+![[Pasted image 20210415161345.png]]
+
+##### Effect of PaO2 and PaCO2 on minute ventillation
+
+![[Pasted image 20210415161148.png]]
+
+![[Pasted image 20210415161453.png]]
+
 #### Ventillation Adjustment
 
 - arterial blood gases are regulated by varying rate and depth of breathing to match bodies metabolism
@@ -562,6 +644,8 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 	- PCO2
 	- PO2
 	- H+ concentration
+	
+
 
 #### Decreased Arterial PO2
 
