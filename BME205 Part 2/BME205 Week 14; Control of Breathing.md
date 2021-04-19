@@ -171,7 +171,8 @@ where $\dot{V}_a$ is the rate of transfer of $a$ across the membrane. $P_{A_a}$ 
 
 ##### Bronchodilation and constriction
 
-- bronchioles dilate due to binding of ACh with the Beta 2 receptors in the smooth muscle surrounding the tubes
+- bronchioles dilate due to binding of  E with the Beta 2 receptors in the smooth muscle surrounding the tubes
+
 
 ![[Pasted image 20210412205801.png]]
 
@@ -302,6 +303,7 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 
 #### Bohr effect
 
+- increased H+ and CO2 shift curve right (down)
 - H+ ions combine reversibly with binding sites on Hb (other than those for O2)
 - conformational change reduces Hb affinity for O2
 - this is important so metabolically active cells get enough O2
@@ -316,8 +318,7 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 
 #### Haladane effect
 
-- increased PCO2 shifts curve right (down) and visa versa
-
+- Removing oxygen from haemoglobin increases the ability of haemoglobin to bind carbon dioxide and the carbon dioxide– generated H+; this is known as the Haldane effect
 
 
 
@@ -329,7 +330,7 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
   
   
 
-#### 2,3 Bisphosphogylcerate 
+#### 2,3 Bisphosphogylcerate (also refered to as 2,3-DPG)
 
 - factor inside red blood cells
 - increased BPG shifts curve down, increasing dissociation of O2

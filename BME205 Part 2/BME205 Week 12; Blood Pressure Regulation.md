@@ -307,3 +307,13 @@ $$\text{TPR} \sim \eta $$
 - blood deprived pancrease will release myocardial toxic factor which weakens the heart
 - vasodilator substances build up in organs 
 - increasing hypotension in a positive feedback loop => death
+
+
+
+- receptors in blood vessels
+	- all arteriolar smooth muscle (except brain) has alpha 1 receptors which vasoconstrict in response to NE
+![[Pasted image 20210418103516.png]]
+	-	ateriolar smooth muscle that supplies skeletal muscle and heart have beta 2 receptors which have a higher affinity for epinephrine and cause vasodilation
+- cardioaccelatory center is in the medulla 
+	- synapeses on chain ganglia and then the smooth muscle of the arterioles
+- 

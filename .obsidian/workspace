@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "177a77eb7f51fddc",
+        "id": "f226a4111df1388e",
         "type": "leaf",
-        "dimension": 50.206100577081614,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
+            "file": "BME205 Part 2/BME205 Tutorial And Lab Review.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "e3a8b36c9efb29a4",
-        "type": "leaf",
-        "dimension": 49.793899422918386,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
-            "mode": "preview"
           }
         }
       }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wiggers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
+                "file": "BME205 Part 2/BME205 Tutorial And Lab Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 274
   },
-  "active": "177a77eb7f51fddc",
+  "active": "f226a4111df1388e",
   "lastOpenFiles": [
+    "BME205 Part 2/BME205 Tutorial And Lab Review.md",
     "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
-    "Pasted image 20210415153542.png",
-    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md",
+    "Pasted image 20210419151033.png",
     "BME205 Part 2/BME205 Wiggers Diagram.pdf",
-    "BME205 Part 2/BME205 Week 8; Skeletal Muscles.md",
-    "Pasted image 20210414075201.png",
-    "Pasted image 20210414075308.png",
-    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
-    "Pasted image 20210413110014.png"
+    "BME205 Part 2/BME-205-Tutorial-9.pdf",
+    "BME205 Part 2/BME-205-Tutorial-8.pdf",
+    "BME205 Part 2/BME-205-Tutorial-12.pdf",
+    "BME205 Part 2/BME-205-tutorial-11.pdf",
+    "BME205 Part 2/BME-205-Tutorial-10.pdf",
+    "BME205 Part 2/BME205 Weeks 8-12 Tutorial And Lab Review.md"
   ]
 }

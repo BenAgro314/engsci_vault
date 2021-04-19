@@ -146,6 +146,8 @@ note: average aortic flow rate is 4900 ml/min, which of course equals the cardia
 
 ### Smooth Muscle
 
+![[Pasted image 20210416073948.png]]
+
 ![[Pasted image 20210328164239.png]]
 - small unstriated cells
 - three filament types
