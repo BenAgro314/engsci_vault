@@ -339,9 +339,6 @@ $$ P = \frac{2T}{r}$$
 
 ![[Pasted image 20210405180924.png]]
 
-- expiratory muscle trainer:
-
-![[Pasted image 20210405181111.png]]
 
 ### Airway resistance and airflow
 
@@ -573,3 +570,18 @@ $$ R = \frac{8\eta}{r^4} $$
 - in people with poorly compliant lungs or chronic airflow limitations, work of breathing may increase to 30 percent of total energy usage at rest
 	- may go up to 35-40 percent during moderate exercise
 
+### Respiratory Trainers
+
+
+- the device below is used to train expiratory muscles (increasing FEV_1, increasing expiratory reserve volume/functional residual capacity, strengthen expiratory muscles):
+
+![[Pasted image 20210405181111.png]]
+
+- the device below allows for the training of inspiratory muscles 
+- increased inspiratory capacity, increased total lung volume, increased inspiratory reserve volume, increased tidal volume
+
+- ![Amazon.com: HealthAndYoga(TM) Deep Breathing Exerciser - Breath Exercise  Measurement System: Health & Personal Care](https://images-na.ssl-images-amazon.com/images/I/51KTf7LymnL._AC_SL1000_.jpg)
+
+- the device below can be used to measure FEV_1 if calibrated properly. Testing for asthma and other obstructive pulmonary diseases
+
+ ![[Pasted image 20210420204752.png]]

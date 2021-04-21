@@ -207,3 +207,11 @@ When the face is submerged and water fills the nostrils, sensory receptors sensi
 In humans, the diving reflex is not induced when limbs are introduced to cold water. Mild bradycardia is caused by subjects holding their breath without submerging the face in water.[10][11] When breathing with the face submerged, the diving response increases proportionally to decreasing water temperature.[8] However, the greatest bradycardia effect is induced when the subject is holding their breath with their face wetted.[10] Apnea with nostril and facial cooling are triggers of this reflex.[1][8]
 
 - profs heart rate went below 70 bpm due to diving reflex
+
+
+### Receptor Notes:
+
+![[Pasted image 20210420204300.png]]
+![[Pasted image 20210420204313.png]]
+![[Pasted image 20210420204324.png]]
+![[Pasted image 20210420204334.png]]

@@ -476,7 +476,8 @@ $$Hb + O_2 \leftrightarrow HbO_2$$
 					- innervate muscles that narrow (adduct) the upper airways
 			- during inspiration, excite inspiratory muscles that widen the upper airway
 			- during expiration: expiratory muscles during active expiration
-	
+- expiratory neurons:  They are stimulated by the inspiratory neurons, and in turn inhibit the inspiratory neurons.
+
 ![[Pasted image 20210415155215.png]]	
 ![[Pasted image 20210415155419.png]]
 
