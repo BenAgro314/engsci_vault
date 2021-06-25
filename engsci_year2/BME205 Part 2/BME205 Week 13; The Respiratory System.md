@@ -577,7 +577,7 @@ $$ R = \frac{8\eta}{r^4} $$
 
 ![[Pasted image 20210405181111.png]]
 
-- the device below allows for the training of inspiratory muscles 
+- the device (incentive spirometer) below allows for the training of inspiratory muscles 
 - increased inspiratory capacity, increased total lung volume, increased inspiratory reserve volume, increased tidal volume
 
 - ![Amazon.com: HealthAndYoga(TM) Deep Breathing Exerciser - Breath Exercise  Measurement System: Health & Personal Care](https://images-na.ssl-images-amazon.com/images/I/51KTf7LymnL._AC_SL1000_.jpg)

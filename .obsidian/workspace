@@ -7,19 +7,19 @@
         "id": "f226a4111df1388e",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "image",
           "state": {
-            "file": "BME205 Part 2/BME-205-Tutorial-10.pdf"
+            "file": "ML/images/Pasted image 20210615205747.png"
           }
         }
       },
       {
-        "id": "afa0951504f81ee8",
+        "id": "370dae9d42918ed6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+            "file": "ML/Using neural nets to recognize handwritten digits.md",
             "mode": "preview"
           }
         }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apnea",
+                "query": "tag:#fc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
+                "file": "ML/images/Pasted image 20210615205747.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 280
   },
-  "active": "afa0951504f81ee8",
+  "active": "f226a4111df1388e",
   "lastOpenFiles": [
-    "BME205 Part 2/BME205 Week 13; The Respiratory System.md",
-    "BME205 Part 2/BME205 Week 14; Control of Breathing.md",
-    "BME205 Part 2/BME205 Tutorial And Lab Review.md",
-    "BME205 Part 2/BME205 Wiggers Diagram.pdf",
-    "BME205 Part 2/BME205 Week 12; Blood Pressure Regulation.md",
-    "BME205 Part 2/BME-205-Tutorial-10.pdf",
-    "BME205 Part 2/BME-205-tutorial-11.pdf",
-    "BME205 Part 2/BME-205-Tutorial-12.pdf",
-    "BME205 Part 2/BME205 Week 11; Cardiac Regulation and Vascular Physiology.md",
-    "BME205 Part 2/BME205 Week 9; Skeletal and Cardiac Muscle.md"
+    "Pasted image 20210615205747.png",
+    "ML/Using neural nets to recognize handwritten digits.md",
+    "PDDL(stream).md",
+    "Untitled.md",
+    "CPSC8170/Chapter 1 and 2.md",
+    "CPSC8170/Chapter 1.md",
+    "ML/Pytorch Tutorials.md",
+    "Underactuated Robotics and Manipulation/Chapter 18. System Identification.md",
+    "Chapter 18. System Identification.md",
+    "Underactuated Robotics and Manipulation/Chapter 11. Policy Search.md"
   ]
 }

@@ -62,7 +62,7 @@ Declining balance using $d = \frac{2}{N}$
 $$ SOYD = \sum_{k=1}^{N}k = \frac{N+1}{2}N$$
 $$D_t = \frac{N-t+1}{SOYD}(B-S)$$
 
-This is faster in earlier years and slower in later years than [[#Straight Line]] depreciation
+This is faster in earlier years and slower in later years than [[CHE374 Week 7#Straight Line]] depreciation
 
 ##### Units of Production
 

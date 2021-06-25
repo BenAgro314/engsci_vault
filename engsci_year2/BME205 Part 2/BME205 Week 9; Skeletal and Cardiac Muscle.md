@@ -330,7 +330,7 @@ Two types of cells
 ##### Ventricular Excitation
 - majority of purkinje fibers terminate near endocardial surface -> conduction occurs through myocardial layer from inside of heart to outside by means of gap junctions 
 - conduction through the purkinje fibers and bundle of his is very fast so that the ventricles contract in a synchronized manner (so the top doesn't contract before the bottom for example)
-- see ![[#Electrical Activity of the Heart]] for more on the contracile nature of ventricular myocytes
+- see ![[BME205 Week 9; Skeletal and Cardiac Muscle#Electrical Activity of the Heart]] for more on the contracile nature of ventricular myocytes
 
 ##### Ca2+ release from the sarcoplasmic reticulum
 
