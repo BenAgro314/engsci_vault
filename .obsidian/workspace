@@ -7,9 +7,10 @@
         "id": "f226a4111df1388e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "ML/images/Pasted image 20210615205747.png"
+            "file": "ML/Improving Neural Networks.md",
+            "mode": "source"
           }
         }
       },
@@ -19,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Using neural nets to recognize handwritten digits.md",
+            "file": "ML/Improving Neural Networks.md",
             "mode": "preview"
           }
         }
@@ -62,50 +63,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "83af76fbb564ea87",
     "type": "split",
-    "children": [
-      {
-        "id": "51b1b0b296135a24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c60e97160a5f939",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ML/images/Pasted image 20210615205747.png",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 280
+    "width": 100,
+    "collapsed": true
   },
   "active": "f226a4111df1388e",
   "lastOpenFiles": [
-    "Pasted image 20210615205747.png",
-    "ML/Using neural nets to recognize handwritten digits.md",
-    "PDDL(stream).md",
+    "ML/Improving Neural Networks.md",
+    "ML/Backprop.md",
     "Untitled.md",
-    "CPSC8170/Chapter 1 and 2.md",
-    "CPSC8170/Chapter 1.md",
+    "ML/Using neural nets to recognize handwritten digits.md",
     "ML/Pytorch Tutorials.md",
-    "Underactuated Robotics and Manipulation/Chapter 18. System Identification.md",
-    "Chapter 18. System Identification.md",
-    "Underactuated Robotics and Manipulation/Chapter 11. Policy Search.md"
+    "Backprop.md",
+    "Pasted image 20210615205747.png",
+    "PDDL(stream).md",
+    "CPSC8170/Chapter 1 and 2.md",
+    "CPSC8170/Chapter 1.md"
   ]
 }
