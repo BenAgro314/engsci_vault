@@ -210,6 +210,69 @@ Gradients tend to decrease as your move backwards layer by layer through a neura
 <!--ID: 1625273841545-->
 
 
+What is the intuitive cause for the vanishing gradient problem (or exploding grdient problem). Use a toy network with one neuron per layer? #fc 
+The gradient of the cost function with respect to a bias (similar form for weight) usually looks like:
+$$\frac{\partial C}{\partial b_1} = \sigma'(z_q)w_2\sigma'(z_2)w_3 \; ... \; w_L\sigma'(z_L)\frac{\partial C}{\partial a_L}$$
+Upon initialization, it is usually the case that all $|w_j \sigma(z_j)|$ are greater than $1$ or less than $1$, meaning we get exponential growth or decay as the gradient is propogated backwards, at least initially.
+<!--ID: 1625361308112-->
+
+
+With sigmoid neurons, is vanishing or exploding gradient more likely, why. Use a toy network with one neuron per layer? #fc 
+vanishing. Recall the terms that are multiplied to find the gradient earlier inthe network are $w_j  \sigma'(w_j a_{j-1} +b_j)$. $\sigma'(z)$ has a maximum at $z = 0$ of $\frac{1}{4}$. If we make $w_j$ large, then $\sigma'$ is also likely to get small, maintaining the vanishing gradient.
+<!--ID: 1625361308140-->
+
+In a convolutional net, what is the local receptive field of a neuron? #fc 
+It is the set of inputs in the images (pixels), that the neuron in question is connected to (via weights, one per neuron, and a bias)
+<!--ID: 1625362277162-->
+
+
+What is the stride length on a convoutional network? #fc 
+The number of pixels that the receptive field is "slide" across per neuron in the first hidden layer
+<!--ID: 1625362277203-->
+
+
+How do the weights and biases differ for the neurons in a convolutional neural network? #fc 
+The weights and biases are shared for all neurons in the first hidden layer of the network (actually any convolutional layer)
+<!--ID: 1625362277207-->
+
+
+Why does it make sense for a convolutional net to share weights across its feature map? #fc 
+Because images are larely translation invarient, so we think that each neuron should be "looking for" the same thing at different locations on the image.
+<!--ID: 1625362277211-->
+
+
+What is a *feature map* in a convolutional network? #fc 
+It is a map from one layer (eg the input layer) to the next. The weights and bias define the feature map, and are also said to define a *kernel* or *filter*.
+<!--ID: 1625362277214-->
+
+
+What is a pooling layer in a CNN? #fc 
+It is a layer of neurons the "summarizes" or "pools" the output information from the preceding convolutional layer. Each neuron in the pooling layer summarizes the information from some region in the previous layer. and example is max-pooling.
+<!--ID: 1625362277218-->
+
+Visualize what a CNN looks like with three (24x24) feature maps and three (12 x 12) pooling layers, and 10 output neurons. How are the output layers connected? #fc 
+![[Pasted image 20210704063458.png]]
+Every ouput neuron is connected to every neuron in the 3 x 12 x12  max pooling layers.
+<!--ID: 1625405957138-->
+
+
+How are consecutive convolution-pooling layers connected in a CNN? #fc 
+Each neuron in the second convolutional-pooling layer leans from its receptive field in all of the $N$ "images" produced by the previous cooling layer. (imagine that the convolutional layer is connected to an $N$ dimensional color input layer).
+<!--ID: 1625405957141-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

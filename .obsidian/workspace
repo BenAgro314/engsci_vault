@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Improving Neural Networks.md",
+            "file": "ML/Spinning Up.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Improving Neural Networks.md",
+            "file": "ML/Spinning Up.md",
             "mode": "preview"
           }
         }
@@ -63,27 +63,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 302
   },
   "right": {
     "id": "83af76fbb564ea87",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "af00636d8d8e346c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409cb3a5c8165eb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/Spinning Up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 100,
     "collapsed": true
   },
   "active": "f226a4111df1388e",
   "lastOpenFiles": [
-    "ML/Improving Neural Networks.md",
-    "ML/Backprop.md",
+    "ML/Spinning Up.md",
+    "Spinning Up.md",
+    "Haskell/Learn You a Haskell for Great Good!.md",
     "Untitled.md",
-    "ML/Using neural nets to recognize handwritten digits.md",
-    "ML/Pytorch Tutorials.md",
-    "Backprop.md",
-    "Pasted image 20210615205747.png",
-    "PDDL(stream).md",
-    "CPSC8170/Chapter 1 and 2.md",
-    "CPSC8170/Chapter 1.md"
+    "crypto/Foundational Topics.md",
+    "Learn You a Haskell for Great Good!.md",
+    "ML/Deep Unsupervised Learning.md",
+    "ML/Improving Neural Networks.md",
+    "Pasted image 20210704102154.png",
+    "Pasted image 20210704063458.png"
   ]
 }
